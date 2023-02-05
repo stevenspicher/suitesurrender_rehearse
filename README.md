@@ -1,0 +1,1 @@
+created base react from "https://medium.com/beyn-technology/how-you-should-create-react-applications-in-2023-part-1-933f6a8a8980"
